@@ -29,7 +29,7 @@
     "react-dom": "^16.8 || ^17 || ^18 || ^19"
   },
   "devDependencies": {
-    "@tiptap-pro/extension-drag-handle": "git+https://github.com/sriharshamadamanchi/extension-drag-handle.git#v0.1.0",
+    "@tiptap-pro/extension-drag-handle": "git+https://github.com/sriharshamadamanchi/extension-drag-handle.git#v0.2.0",
     "@tiptap/pm": "^2.0.0",
     "@tiptap/react": "^2.0.0",
     "@types/react": "^18.0.0",
