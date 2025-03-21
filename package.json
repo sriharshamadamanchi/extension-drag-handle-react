@@ -22,14 +22,14 @@
     "LICENSE.md"
   ],
   "peerDependencies": {
-    "@tiptap-pro/extension-drag-handle": "^2",
+    "@tiptap-pro/extension-drag-handle": "git+https://github.com/sriharshamadamanchi/extension-drag-handle.git#v0.1.0",
     "@tiptap/pm": "^2.0.0",
     "@tiptap/react": "^2.0.0",
     "react": "^16.8 || ^17 || ^18 || ^19",
     "react-dom": "^16.8 || ^17 || ^18 || ^19"
   },
   "devDependencies": {
-    "@tiptap-pro/extension-drag-handle": "^2.17.3",
+    "@tiptap-pro/extension-drag-handle": "git+https://github.com/sriharshamadamanchi/extension-drag-handle.git#v0.1.0",
     "@tiptap/pm": "^2.0.0",
     "@tiptap/react": "^2.0.0",
     "@types/react": "^18.0.0",
